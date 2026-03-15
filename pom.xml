@@ -39,6 +39,13 @@
                 </configuration>
             </plugin>
         </plugins>
+
+<distributionManagement>
+    <repository>
+        <id>nexus-releases</id>
+        <url>http://3.75.229.98:8081/repository/java-packages/</url>
+    </repository>
+</distributionManagement>
     </build>
 </project>
 
