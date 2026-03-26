@@ -43,7 +43,7 @@
 <distributionManagement>
     <repository>
         <id>nexus-releases</id>
-        <url>http://35.158.129.162:8081/repository/java-maven-packages/</url>
+        <url>http://3.68.68.4:8081/repository/java-maven-packages/</url>
     </repository>
 </distributionManagement>
 </project>
